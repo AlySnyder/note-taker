@@ -45,4 +45,4 @@ If you have any questions , feel free to reach me via e-mail at alystrife@gmail.
 
 ## Screenshot
 
-[](note-taker.png)
+![screenshot](note-taker.png)
